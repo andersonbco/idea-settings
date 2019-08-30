@@ -31,6 +31,14 @@
         <package name="" withSubpackages="true" static="true" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="java" withSubpackages="true" static="false" />
+        <package name="javax" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="com" withSubpackages="true" static="false" />
+        <emptyLine />
       </value>
     </option>
     <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
