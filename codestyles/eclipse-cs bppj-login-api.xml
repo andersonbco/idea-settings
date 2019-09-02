@@ -39,6 +39,7 @@
         <emptyLine />
         <package name="com" withSubpackages="true" static="false" />
         <emptyLine />
+        <package name="br.com" withSubpackages="true" static="false" />
       </value>
     </option>
     <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
