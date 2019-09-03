@@ -42,6 +42,8 @@
         <package name="br.com" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="io" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="lombok" withSubpackages="true" static="false" />
       </value>
     </option>
     <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
